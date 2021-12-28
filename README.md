@@ -1,9 +1,6 @@
-# fastcampus_kykim
 
+## code is private, so it is hidden
 
-```
-code is private, so it is hidden
-```
 
 ```
 PLM - transforemrs - gpt/bert/elmo -> gpt3/roberta
